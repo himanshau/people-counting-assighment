@@ -6,4 +6,6 @@ vidp.mp4 was input video.
 
 sort.py - download from github for tracking.
 
+r.png - masked image for video area selection
+
 output.mp4 was output video 
